@@ -1,1 +1,2 @@
-# Lifesurance-android
+# CapstoneProject-InsurancePredictor
+Insurance Predictor
