@@ -1,2 +1,2 @@
-# CapstoneProject-InsurancePredictor
+# CapstoneProject-Lifesurance
 Insurance Predictor
